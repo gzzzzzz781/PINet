@@ -66,8 +66,7 @@ python fullimagetest.py
 Our work is inspired the following works and uses parts of their official implementations:
 
 * [Restormer](https://github.com/swz30/Restormer)
-* [CA-VTI](https://github.com/megvii-research/HDR-Transformer)
-* [SCTNet](https://steven-tel.github.io/sctnet)
+* [CA-VIT](https://github.com/megvii-research/HDR-Transformer)
 
 We thank the respective authors for open sourcing their methods.
 
